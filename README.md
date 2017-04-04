@@ -49,7 +49,7 @@ Build a benckmark like [SelfExSR_Code](https://sites.google.com/site/jbhuang0604
   * Is the deconvolution layer the same as a convolutional layer? [[PDF]](https://arxiv.org/ftp/arxiv/papers/1609/1609.07009.pdf)
  * FSRCNN [[Web]](http://mmlab.ie.cuhk.edu.hk/projects/FSRCNN.html)
   * Acclerating the Super-Resolution Convolutional Neural Network (ECCV2016), Dong Chao et al.
- * GNU [[Web]](http://mmlab.ie.cuhk.edu.hk/projects/FSRCNN.html)
+ * GNU [[Web]](https://arxiv.org/abs/1703.04244)
   * GUN: Gradual Upsampling Network for single image super-resolution (Arxiv2017), Yang Zhao et al.
 
 #### Perceptual Loss and GAN
