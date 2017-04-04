@@ -50,7 +50,7 @@ Build a benckmark like [SelfExSR_Code](https://sites.google.com/site/jbhuang0604
  * FSRCNN [[Web]](http://mmlab.ie.cuhk.edu.hk/projects/FSRCNN.html)
    * Acclerating the Super-Resolution Convolutional Neural Network (ECCV2016), Dong Chao et al.
  * GNU [[Web]](https://arxiv.org/abs/1703.04244)
-   *  GUN: Gradual Upsampling Network for single image super-resolution (Arxiv2017), Yang Zhao et al.
+   * GUN: Gradual Upsampling Network for single image super-resolution (Arxiv2017), Yang Zhao et al.
 
 #### Perceptual Loss and GAN
  * Perceptual Loss [[PDF]](http://cs.stanford.edu/people/jcjohns/papers/eccv16/JohnsonECCV16.pdf)
