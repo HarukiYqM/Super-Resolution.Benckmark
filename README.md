@@ -13,54 +13,54 @@ Build a benckmark like [SelfExSR_Code](https://sites.google.com/site/jbhuang0604
 ## State-of-the-art algorithms
 #### Classical Sparse Coding Method
  * ScSR [[Web]](http://www.ifp.illinois.edu/~jyang29/ScSR.htm)
-  * Image super-resolution as sparse representation of raw image patches (CVPR2008), Jianchao Yang et al.
-  * Image super-resolution via sparse representation (TIP2010), Jianchao Yang et al.
-  * Coupled dictionary training for image super-resolution (TIP2011), Jianchao Yang et al.
+   * Image super-resolution as sparse representation of raw image patches (CVPR2008), Jianchao Yang et al.
+   * Image super-resolution via sparse representation (TIP2010), Jianchao Yang et al.
+   * Coupled dictionary training for image super-resolution (TIP2011), Jianchao Yang et al.
  
 #### Anchored Neighborhood Regression Method
  * ANR [[Web]](http://www.vision.ee.ethz.ch/~timofter/ICCV2013_ID1774_SUPPLEMENTARY/index.html)
-  * Anchored Neighborhood Regression for Fast Example-Based Super-Resolution (ICCV2013), Radu Timofte et al.
+   * Anchored Neighborhood Regression for Fast Example-Based Super-Resolution (ICCV2013), Radu Timofte et al.
  * A+ [[Web]](http://www.vision.ee.ethz.ch/~timofter/ACCV2014_ID820_SUPPLEMENTARY/)
-  * A+: Adjusted Anchored Neighborhood Regression for Fast Super-Resolution (ACCV2014), Radu Timofte et al.
+   * A+: Adjusted Anchored Neighborhood Regression for Fast Super-Resolution (ACCV2014), Radu Timofte et al.
  * IA [[Web]](http://www.vision.ee.ethz.ch/~timofter/CVPR2016_ID769_SUPPLEMENTARY/index.html)
-  * Seven ways to improve example-based single image super resolution (CVPR2016), Radu Timofte et al.
+   * Seven ways to improve example-based single image super resolution (CVPR2016), Radu Timofte et al.
  
 #### Self-Exemplars
  * SelfExSR [[Web]](https://sites.google.com/site/jbhuang0604/publications/struct_sr)
-  * Single Image Super-Resolution from Transformed Self-Exemplars (CVPR2015), Jia-Bin Huang et al.
+   * Single Image Super-Resolution from Transformed Self-Exemplars (CVPR2015), Jia-Bin Huang et al.
  
 #### Bayes
  * NBSRF [[Web]](http://jordisalvador-image.blogspot.com/2015/08/iccv-2015.html)
-  * Naive Bayes Super-Resolution Forest (ICCV2015), Jordi Salvador et al.
+   * Naive Bayes Super-Resolution Forest (ICCV2015), Jordi Salvador et al.
  
 #### Deep Learning Method
  * SRCNN [[Web]](http://mmlab.ie.cuhk.edu.hk/projects/SRCNN.html) [[waifu2x by nagadomi]](https://github.com/nagadomi/waifu2x)
-  * Image Super-Resolution Using Deep Convolutional Networks (ECCV2014), Chao Dong et al.
-  * Image Super-Resolution Using Deep Convolutional Networks (TPAMI2015), Chao Dong et al.
+   * Image Super-Resolution Using Deep Convolutional Networks (ECCV2014), Chao Dong et al.
+   * Image Super-Resolution Using Deep Convolutional Networks (TPAMI2015), Chao Dong et al.
  * CSCN [[Web]](http://www.ifp.illinois.edu/~dingliu2/iccv15/)
-  * Deep Networks for Image Super-Resolution with Sparse Prior (ICCV2015), Zhaowen Wang et al.
-  * Robust Single Image Super-Resolution via Deep Networks with Sparse Prior (TIP2016), Ding Liu et al.
+   * Deep Networks for Image Super-Resolution with Sparse Prior (ICCV2015), Zhaowen Wang et al.
+   * Robust Single Image Super-Resolution via Deep Networks with Sparse Prior (TIP2016), Ding Liu et al.
  * VDSR [[Web]](http://cv.snu.ac.kr/research/VDSR/) [[Unofficial Implementation in Caffe]](https://github.com/huangzehao/caffe-vdsr)
-  * Accurate Image Super-Resolution Using Very Deep Convolutional Networks (CVPR2016), Jiwon Kim et al.
+   * Accurate Image Super-Resolution Using Very Deep Convolutional Networks (CVPR2016), Jiwon Kim et al.
  * DRCN [[Web]](http://cv.snu.ac.kr/research/DRCN/)
-  * Deeply-Recursive Convolutional Network for Image Super-Resolution (CVPR2016), Jiwon Kim et al. 
+   * Deeply-Recursive Convolutional Network for Image Super-Resolution (CVPR2016), Jiwon Kim et al. 
  * ESPCN [[PDF]](http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Shi_Real-Time_Single_Image_CVPR_2016_paper.pdf)
-  * Real-Time Single Image and Video Super-Resolution Using an Efficient Sub-Pixel Convolutional Neural Network (CVPR2016), Wenzhe Shi et al.
-  * Is the deconvolution layer the same as a convolutional layer? [[PDF]](https://arxiv.org/ftp/arxiv/papers/1609/1609.07009.pdf)
+   * Real-Time Single Image and Video Super-Resolution Using an Efficient Sub-Pixel Convolutional Neural Network (CVPR2016), Wenzhe Shi et al.
+   * Is the deconvolution layer the same as a convolutional layer? [[PDF]](https://arxiv.org/ftp/arxiv/papers/1609/1609.07009.pdf)
  * FSRCNN [[Web]](http://mmlab.ie.cuhk.edu.hk/projects/FSRCNN.html)
-  * Acclerating the Super-Resolution Convolutional Neural Network (ECCV2016), Dong Chao et al.
+   * Acclerating the Super-Resolution Convolutional Neural Network (ECCV2016), Dong Chao et al.
  * GNU [[Web]](https://arxiv.org/abs/1703.04244)
-  * GUN: Gradual Upsampling Network for single image super-resolution (Arxiv2017), Yang Zhao et al.
+   * GUN: Gradual Upsampling Network for single image super-resolution (Arxiv2017), Yang Zhao et al.
 
 #### Perceptual Loss and GAN
  * Perceptual Loss [[PDF]](http://cs.stanford.edu/people/jcjohns/papers/eccv16/JohnsonECCV16.pdf)
-  * Perceptual Losses for Real-Time Style Transfer and Super-Resolution (ECCV2016), Justin Johnson et al.
+   * Perceptual Losses for Real-Time Style Transfer and Super-Resolution (ECCV2016), Justin Johnson et al.
  * SRGAN [[PDF]](https://arxiv.org/abs/1609.04802)
-  * Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network, Christian Ledig et al.
+   * Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network, Christian Ledig et al.
  * AffGAN [[PDF]](https://arxiv.org/pdf/1610.04490.pdf)
-  * AMORTISED MAP INFERENCE FOR IMAGE SUPER-RESOLUTION, Casper Kaae Sønderby et al.
+   * AMORTISED MAP INFERENCE FOR IMAGE SUPER-RESOLUTION, Casper Kaae Sønderby et al.
  * EnhanceNet [[PDF]](https://arxiv.org/abs/1612.07919)
-  * EnhanceNet: Single Image Super-Resolution through Automated Texture Synthesis, Mehdi S. M. Sajjadi et al.
+   * EnhanceNet: Single Image Super-Resolution through Automated Texture Synthesis, Mehdi S. M. Sajjadi et al.
  * neural-enchance [[Github]](https://github.com/alexjc/neural-enhance)
 
 #### Video SR
