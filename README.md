@@ -60,9 +60,9 @@ Build a benckmark like [SelfExSR_Code](https://sites.google.com/site/jbhuang0604
  * Autoencoding Priors [[Web]](https://arxiv.org/abs/1703.09964)
    * Image Restoration using Autoencoding Priors (Arxiv2017), Siavash Arjomand Bigdeli and Matthias Zwicker.
  * Economic Residual-Net [[Web]](https://arxiv.org/abs/1703.08173)
-   * Single Image Super-resolution with a Parameter Economic Residual-like Convolutional Neural Network, Yudong Liang et al.
+   * Single Image Super-resolution with a Parameter Economic Residual-like Convolutional Neural Network (Arxiv2017), Yudong Liang et al.
  * Deep Mixture [[Web]](https://arxiv.org/abs/1701.00823)
-   * Learning a Mixture of Deep Networks for Single Image Super-Resolution, Ding Liu et al.
+   * Learning a Mixture of Deep Networks for Single Image Super-Resolution (Arxiv2017), Ding Liu et al.
 
    
 #### Perceptual Loss and GAN
@@ -76,7 +76,7 @@ Build a benckmark like [SelfExSR_Code](https://sites.google.com/site/jbhuang0604
    * EnhanceNet: Single Image Super-Resolution through Automated Texture Synthesis, Mehdi S. M. Sajjadi et al.
  * Neural-Enchance [[Github]](https://github.com/alexjc/neural-enhance)
  * Texture Enhancement [[Web]](https://arxiv.org/abs/1612.00085)   
-   * Texture Enhancement via High-Resolution Style Transfer for Single-Image Super-Resolution, Youngjung Kim et al.
+   * Texture Enhancement via High-Resolution Style Transfer for Single-Image Super-Resolution (Arxiv2016), Youngjung Kim et al.
 #### Video SR
  * VESPCN [[PDF]](Real-Time Video Super-Resolution with Spatio-Temporal Networks and Motion Compensation)
  
