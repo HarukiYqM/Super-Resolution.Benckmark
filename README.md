@@ -55,6 +55,9 @@ Build a benckmark like [SelfExSR_Code](https://sites.google.com/site/jbhuang0604
    * Single Image Super Resolution - When Model Adaptation Matters (Arxiv2017), Yudong Liang et al.
  * Autoencoding Priors [[Web]](https://arxiv.org/abs/1703.09964)
    * Image Restoration using Autoencoding Priors (Arxiv2017), Siavash Arjomand Bigdeli and Matthias Zwicker.
+ * Economic Residual-Net [[Web]](https://arxiv.org/abs/1703.08173)
+   * Single Image Super-resolution with a Parameter Economic Residual-like Convolutional Neural Network
+   
 #### Perceptual Loss and GAN
  * Perceptual Loss [[PDF]](http://cs.stanford.edu/people/jcjohns/papers/eccv16/JohnsonECCV16.pdf)
    * Perceptual Losses for Real-Time Style Transfer and Super-Resolution (ECCV2016), Justin Johnson et al.
