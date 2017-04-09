@@ -32,7 +32,11 @@ Build a benckmark like [SelfExSR_Code](https://sites.google.com/site/jbhuang0604
 #### Bayes
  * NBSRF [[Web]](http://jordisalvador-image.blogspot.com/2015/08/iccv-2015.html)
    * Naive Bayes Super-Resolution Forest (ICCV2015), Jordi Salvador et al.
- 
+
+#### Classification-Based
+ * Local Patch Classification [[Web]](https://arxiv.org/abs/1703.04088)
+   * Local Patch Classification Based Framework for Single Image Super-Resolution (Arxiv2017), Yang Zhao et al.
+
 #### Deep Learning Method
  * SRCNN [[Web]](http://mmlab.ie.cuhk.edu.hk/projects/SRCNN.html) [[waifu2x by nagadomi]](https://github.com/nagadomi/waifu2x)
    * Image Super-Resolution Using Deep Convolutional Networks (ECCV2014), Chao Dong et al.
