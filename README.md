@@ -84,6 +84,8 @@ Build a benckmark like [SelfExSR_Code](https://sites.google.com/site/jbhuang0604
    
 #### Video SR
  * VESPCN [[PDF]](Real-Time Video Super-Resolution with Spatio-Temporal Networks and Motion Compensation)
+ * Infimal Convolution [[Web]](https://arxiv.org/abs/1611.07767)
+   * Multiframe Motion Coupling via Infimal Convolution Regularization for Video Super Resolution
  
 ## Dicussion
 #### Deconvolution and Sub-Pixel Convolution
