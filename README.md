@@ -51,8 +51,9 @@ Build a benckmark like [SelfExSR_Code](https://sites.google.com/site/jbhuang0604
    * Acclerating the Super-Resolution Convolutional Neural Network (ECCV2016), Dong Chao et al.
  * GNU [[Web]](https://arxiv.org/abs/1703.04244)
    * GUN: Gradual Upsampling Network for single image super-resolution (Arxiv2017), Yang Zhao et al.
-
-
+ * Model Adaptation [[Web]]
+   * Single Image Super Resolution - When Model Adaptation Matters (Arxiv2017), Yudong Liang et al.
+   
 #### Perceptual Loss and GAN
  * Perceptual Loss [[PDF]](http://cs.stanford.edu/people/jcjohns/papers/eccv16/JohnsonECCV16.pdf)
    * Perceptual Losses for Real-Time Style Transfer and Super-Resolution (ECCV2016), Justin Johnson et al.
