@@ -63,7 +63,7 @@ Build a benckmark like [SelfExSR_Code](https://sites.google.com/site/jbhuang0604
    * Single Image Super-resolution with a Parameter Economic Residual-like Convolutional Neural Network, Yudong Liang et al.
  * Deep Mixture [[Web]](https://arxiv.org/abs/1701.00823)
    * Learning a Mixture of Deep Networks for Single Image Super-Resolution, Ding Liu et al.
-  
+
    
 #### Perceptual Loss and GAN
  * Perceptual Loss [[PDF]](http://cs.stanford.edu/people/jcjohns/papers/eccv16/JohnsonECCV16.pdf)
@@ -74,8 +74,9 @@ Build a benckmark like [SelfExSR_Code](https://sites.google.com/site/jbhuang0604
    * AMORTISED MAP INFERENCE FOR IMAGE SUPER-RESOLUTION, Casper Kaae Sønderby et al.
  * EnhanceNet [[PDF]](https://arxiv.org/abs/1612.07919)
    * EnhanceNet: Single Image Super-Resolution through Automated Texture Synthesis, Mehdi S. M. Sajjadi et al.
- * neural-enchance [[Github]](https://github.com/alexjc/neural-enhance)
-
+ * Neural-Enchance [[Github]](https://github.com/alexjc/neural-enhance)
+ * Texture Enhancement [[Web]](https://arxiv.org/abs/1612.00085)   
+   * Texture Enhancement via High-Resolution Style Transfer for Single-Image Super-Resolution, Youngjung Kim et al.
 #### Video SR
  * VESPCN [[PDF]](Real-Time Video Super-Resolution with Spatio-Temporal Networks and Motion Compensation)
  
