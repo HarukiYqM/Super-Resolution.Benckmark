@@ -61,9 +61,9 @@ Build a benckmark like [SelfExSR_Code](https://sites.google.com/site/jbhuang0604
    * Image Restoration using Autoencoding Priors (Arxiv2017), Siavash Arjomand Bigdeli and Matthias Zwicker.
  * Economic Residual-Net [[Web]](https://arxiv.org/abs/1703.08173)
    * Single Image Super-resolution with a Parameter Economic Residual-like Convolutional Neural Network, Yudong Liang et al.
- * Economic Residual-Net [[Web]](https://arxiv.org/abs/1703.08173)
-   * Single Image Super-resolution with a Parameter Economic Residual-like Convolutional Neural Network, Yudong Liang et al.
-   
+ * Deep Mixture [[Web]](https://arxiv.org/abs/1701.00823)
+   * Learning a Mixture of Deep Networks for Single Image Super-Resolution, Ding Liu et al.
+  
    
 #### Perceptual Loss and GAN
  * Perceptual Loss [[PDF]](http://cs.stanford.edu/people/jcjohns/papers/eccv16/JohnsonECCV16.pdf)
