@@ -53,7 +53,8 @@ Build a benckmark like [SelfExSR_Code](https://sites.google.com/site/jbhuang0604
    * GUN: Gradual Upsampling Network for single image super-resolution (Arxiv2017), Yang Zhao et al.
  * Model Adaptation [[Web]](https://arxiv.org/abs/1703.10889)
    * Single Image Super Resolution - When Model Adaptation Matters (Arxiv2017), Yudong Liang et al.
-   
+ * Autoencoding Priors [[Web]](https://arxiv.org/abs/1703.09964)
+   * Image Restoration using Autoencoding Priors (Arxiv2017), Siavash Arjomand Bigdeli and Matthias Zwicker.
 #### Perceptual Loss and GAN
  * Perceptual Loss [[PDF]](http://cs.stanford.edu/people/jcjohns/papers/eccv16/JohnsonECCV16.pdf)
    * Perceptual Losses for Real-Time Style Transfer and Super-Resolution (ECCV2016), Justin Johnson et al.
