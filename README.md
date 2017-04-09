@@ -63,6 +63,8 @@ Build a benckmark like [SelfExSR_Code](https://sites.google.com/site/jbhuang0604
    * Single Image Super-resolution with a Parameter Economic Residual-like Convolutional Neural Network (Arxiv2017), Yudong Liang et al.
  * Deep Mixture [[Web]](https://arxiv.org/abs/1701.00823)
    * Learning a Mixture of Deep Networks for Single Image Super-Resolution (Arxiv2017), Ding Liu et al.
+ * Pixel Recurrence [[Web]](https://arxiv.org/abs/1702.00783)
+   * Pixel Recursive Super Resolution (Arxiv2017), Ryan Dahl et al.
    
 #### Perceptual Loss and GAN
  * Perceptual Loss [[PDF]](http://cs.stanford.edu/people/jcjohns/papers/eccv16/JohnsonECCV16.pdf)
