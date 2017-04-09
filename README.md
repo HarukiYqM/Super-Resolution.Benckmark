@@ -85,8 +85,12 @@ Build a benckmark like [SelfExSR_Code](https://sites.google.com/site/jbhuang0604
 #### Video SR
  * VESPCN [[PDF]](Real-Time Video Super-Resolution with Spatio-Temporal Networks and Motion Compensation)
  * Infimal Convolution [[Web]](https://arxiv.org/abs/1611.07767)
-   * Multiframe Motion Coupling via Infimal Convolution Regularization for Video Super Resolution
- 
+   * Multiframe Motion Coupling via Infimal Convolution Regularization for Video Super Resolution (Arxiv2016), Hendrik Dirks et al.
+
+#### Others
+ * Self-Optimizing Mask [[Web]](https://arxiv.org/abs/1703.06260)
+   * Single image super-resolution using self-optimizing mask via fractional-order gradient interpolation and reconstruction (Arxiv 2017), Qi Yang et al.
+
 ## Dicussion
 #### Deconvolution and Sub-Pixel Convolution
  * [Deconvolution and Checkerboard Artifacts](http://distill.pub/2016/deconv-checkerboard/)
