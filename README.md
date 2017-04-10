@@ -74,7 +74,7 @@ Build a benckmark like [SelfExSR_Code](https://sites.google.com/site/jbhuang0604
  * AffGAN [[PDF]](https://arxiv.org/pdf/1610.04490.pdf)
    * AMORTISED MAP INFERENCE FOR IMAGE SUPER-RESOLUTION, Casper Kaae Sønderby et al.
 #### Texture Synthesis   
- * E-Net [[PDF]](https://arxiv.org/abs/1612.07919)
+ * ENet [[PDF]](https://arxiv.org/abs/1612.07919)
    * EnhanceNet: Single Image Super-Resolution through Automated Texture Synthesis, Mehdi S. M. Sajjadi et al.
  * Neural-Enchance [[Github]](https://github.com/alexjc/neural-enhance)
  * Texture Enhancement [[Web]](https://arxiv.org/abs/1612.00085)   
