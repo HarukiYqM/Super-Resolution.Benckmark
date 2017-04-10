@@ -59,9 +59,9 @@ Build a benckmark like [SelfExSR_Code](https://sites.google.com/site/jbhuang0604
    * Single Image Super Resolution - When Model Adaptation Matters (Arxiv2017), Yudong Liang et al.
  * Autoencoding Priors [[Web]](https://arxiv.org/abs/1703.09964)
    * Image Restoration using Autoencoding Priors (Arxiv2017), Siavash Arjomand Bigdeli and Matthias Zwicker.
- * Economic Residual-Net [[Web]](https://arxiv.org/abs/1703.08173)
+ * E-ResNet[[Web]](https://arxiv.org/abs/1703.08173)
    * Single Image Super-resolution with a Parameter Economic Residual-like Convolutional Neural Network (Arxiv2017), Yudong Liang et al.
- * Deep Mixture [[Web]](https://arxiv.org/abs/1701.00823)
+ * Mixture [[Web]](https://arxiv.org/abs/1701.00823)
    * Learning a Mixture of Deep Networks for Single Image Super-Resolution (Arxiv2017), Ding Liu et al.
  * Pixel Recurrence [[Web]](https://arxiv.org/abs/1702.00783)
    * Pixel Recursive Super Resolution (Arxiv2017), Ryan Dahl et al.
@@ -69,12 +69,12 @@ Build a benckmark like [SelfExSR_Code](https://sites.google.com/site/jbhuang0604
 #### Perceptual Loss and GAN
  * Perceptual Loss [[PDF]](http://cs.stanford.edu/people/jcjohns/papers/eccv16/JohnsonECCV16.pdf)
    * Perceptual Losses for Real-Time Style Transfer and Super-Resolution (ECCV2016), Justin Johnson et al.
- * SRGAN [[PDF]](https://arxiv.org/abs/1609.04802)
+ * SR-ResNet\SRGAN [[PDF]](https://arxiv.org/abs/1609.04802)
    * Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network, Christian Ledig et al.
  * AffGAN [[PDF]](https://arxiv.org/pdf/1610.04490.pdf)
    * AMORTISED MAP INFERENCE FOR IMAGE SUPER-RESOLUTION, Casper Kaae Sønderby et al.
 #### Texture Synthesis   
- * EnhanceNet [[PDF]](https://arxiv.org/abs/1612.07919)
+ * E-Net [[PDF]](https://arxiv.org/abs/1612.07919)
    * EnhanceNet: Single Image Super-Resolution through Automated Texture Synthesis, Mehdi S. M. Sajjadi et al.
  * Neural-Enchance [[Github]](https://github.com/alexjc/neural-enhance)
  * Texture Enhancement [[Web]](https://arxiv.org/abs/1612.00085)   
