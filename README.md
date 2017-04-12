@@ -81,11 +81,6 @@ Build a benckmark like [SelfExSR_Code](https://sites.google.com/site/jbhuang0604
    * Texture Enhancement via High-Resolution Style Transfer for Single-Image Super-Resolution (Arxiv2016), Youngjung Kim et al.
  * Constrained Texture Synthesis[[Web]](https://arxiv.org/abs/1701.07604)
    * Super-resolution Using Constrained Deep Texture Synthesis (Arxiv2017), Libin Sun et al.
-   
-#### Video SR
- * VESPCN [[PDF]](Real-Time Video Super-Resolution with Spatio-Temporal Networks and Motion Compensation)
- * Infimal Convolution [[Web]](https://arxiv.org/abs/1611.07767)
-   * Multiframe Motion Coupling via Infimal Convolution Regularization for Video Super Resolution (Arxiv2016), Hendrik Dirks et al.
 
 #### Others
  * Self-Optimizing Mask [[Web]](https://arxiv.org/abs/1703.06260)
