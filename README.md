@@ -65,7 +65,10 @@ Build a benckmark like [SelfExSR_Code](https://sites.google.com/site/jbhuang0604
    * Learning a Mixture of Deep Networks for Single Image Super-Resolution (Arxiv2017), Ding Liu et al.
  * Pixel Recurrence [[Web]](https://arxiv.org/abs/1702.00783)
    * Pixel Recursive Super Resolution (Arxiv2017), Ryan Dahl et al.
+ * Deep Laplacian Pyramid Networks [[Web]](http://vllab1.ucmerced.edu/~wlai24/LapSRN/)[[PDF]](https://arxiv.org/pdf/1704.03915.pdf)
+   * Deep Laplacian Pyramid Networks for Fast and Accurate Super-Resolution (CVPR 2017),  Weisheng Lai et al.
    
+
 #### Perceptual Loss and GAN
  * Perceptual Loss [[PDF]](http://cs.stanford.edu/people/jcjohns/papers/eccv16/JohnsonECCV16.pdf)
    * Perceptual Losses for Real-Time Style Transfer and Super-Resolution (ECCV2016), Justin Johnson et al.
